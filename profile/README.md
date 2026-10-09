@@ -22,7 +22,7 @@ responsive, ready, and operationally healthy**.
 <tr>
 <td width="50%" valign="top">
 
-### [🩺 agenthealth](https://github.com/TheAgentHealth/agenthealth)
+### 🩺 [agenthealth](https://github.com/TheAgentHealth/agenthealth)
 
 Core project — spec, CLI, and adapters for HTTP/API, MCP, A2A, agent,
 gateway, and router targets.
@@ -30,7 +30,7 @@ gateway, and router targets.
 </td>
 <td width="50%" valign="top">
 
-### [🌐 theagenthealth.github.io](https://theagenthealth.github.io/)
+### 🌐 [theagenthealth.github.io](https://theagenthealth.github.io/)
 
 Project website. Source:
 [theagenthealth.github.io (repo)](https://github.com/TheAgentHealth/theagenthealth.github.io)
