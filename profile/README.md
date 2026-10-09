@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/assets/banner.svg" alt="TheAgentHealth — Know your agents are ready." width="100%" />
+<img src="assets/banner.svg" alt="TheAgentHealth — Know your agents are ready." width="100%" />
 
 <br/>
 
