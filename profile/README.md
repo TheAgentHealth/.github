@@ -30,10 +30,10 @@ gateway, and router targets.
 </td>
 <td width="50%" valign="top">
 
-### [🌐 theagenthealth.github.io](https://github.com/TheAgentHealth/theagenthealth.github.io)
+### [🌐 theagenthealth.github.io](https://theagenthealth.github.io/)
 
-Source for the project website:
-[theagenthealth.github.io](https://theagenthealth.github.io/)
+Project website. Source:
+[theagenthealth.github.io (repo)](https://github.com/TheAgentHealth/theagenthealth.github.io)
 
 </td>
 </tr>
